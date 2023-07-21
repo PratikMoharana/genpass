@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/genpass/static/css/main.0a61d091.css",
+    "main.js": "/genpass/static/js/main.110abaa8.js",
+    "static/js/787.88bfb74c.chunk.js": "/genpass/static/js/787.88bfb74c.chunk.js",
+    "index.html": "/genpass/index.html",
+    "main.0a61d091.css.map": "/genpass/static/css/main.0a61d091.css.map",
+    "main.110abaa8.js.map": "/genpass/static/js/main.110abaa8.js.map",
+    "787.88bfb74c.chunk.js.map": "/genpass/static/js/787.88bfb74c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a61d091.css",
+    "static/js/main.110abaa8.js"
+  ]
+}
